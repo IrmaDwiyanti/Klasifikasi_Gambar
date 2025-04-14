@@ -36,8 +36,11 @@ running file notebook.ipynb
 Model disimpan dalam 3 format:
 
 TensorFlow.js (tfjs_model)
+
 TensorFlow Lite (tflite)
+
 SavedModel (saved_model)
+
 Model bisa digunakan untuk keperluan web, Android, atau inference lanjutan.
 
 5. Inference (Prediksi Gambar Baru)
