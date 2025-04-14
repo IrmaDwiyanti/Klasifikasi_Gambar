@@ -35,13 +35,13 @@ running file notebook.ipynb
 4. Menyimpan dan Mengekspor Model
 Model disimpan dalam 3 format:
 
-TensorFlow.js (tfjs_model)
+   TensorFlow.js (tfjs_model)
+   
+   TensorFlow Lite (tflite)
+   
+   SavedModel (saved_model)
 
-TensorFlow Lite (tflite)
-
-SavedModel (saved_model)
-
-Model bisa digunakan untuk keperluan web, Android, atau inference lanjutan.
+   Model bisa digunakan untuk keperluan web, Android, atau inference lanjutan.
 
 5. Inference (Prediksi Gambar Baru)
 Gunakan fungsi predict_disease(img_path, model, class_labels) untuk melakukan prediksi terhadap gambar daun baru. Hasil prediksi akan menampilkan label serta confidence-nya dalam bentuk persen.
