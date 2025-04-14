@@ -45,7 +45,7 @@ Gunakan fungsi predict_disease(img_path, model, class_labels) untuk melakukan pr
 
 ---
 
-##🧠 Hasil Model
+## 🧠 Hasil Model
 
 Model klasifikasi ini bekerja dengan akurat dengan tingkat prediksi mencapai 98% akurasi! 🎯
 Beberapa poin penting dari hasil pengujian:
